@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FairyStory</title>
+  
+  
+  <link href="http://fred-seth.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://fred-seth.github.io/"/>
+  <updated>2022-11-16T06:44:05.915Z</updated>
+  <id>http://fred-seth.github.io/</id>
+  
+  <author>
+    <name>Spoofer</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="http://fred-seth.github.io/wiki/how-to-new-post/"/>
+    <id>http://fred-seth.github.io/wiki/how-to-new-post/</id>
+    <published>2022-11-16T06:38:18.000Z</published>
+    <updated>2022-11-16T06:44:05.915Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="壹"><a href="#壹" class="headerlink" title="壹"></a>壹</h1><figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">一八二〇年代，身世成谜的苏格兰博物学者H游历世界，登陆广州，在当地芦竹林中遭遇一只雌性巨蛙，成功将其诱捕，豢养在澳门好景花园。由此，奇异的笼禽困兽、寰宇新知并四海众生相，悲喜相侵地进入蛙的生命。鸦片战争前夕，H破产自杀，好景花园如大梦般消失，而蛙也将经历生与死的考验。 </span><br><span class="line">这个根植于岭南风土的魔幻故事，从珠江水上人家，到广州十三行，在澳门奇珍园略作停留，又探向万物有灵的江河重洋。中西在此相逢，大大小小的乌托邦相互碰撞，是一次穿越近代世界的迷人宴游。</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;壹&quot;&gt;&lt;a href=&quot;#壹&quot; class=&quot;headerlink&quot; title=&quot;壹&quot;&gt;&lt;/a&gt;壹&lt;/h1&gt;&lt;figure class=&quot;highlight plaintext&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://fred-seth.github.io/wiki/hello-world/"/>
+    <id>http://fred-seth.github.io/wiki/hello-world/</id>
+    <published>2022-11-16T03:08:55.069Z</published>
+    <updated>2022-11-16T03:08:55.069Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
